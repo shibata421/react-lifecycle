@@ -7,6 +7,7 @@ class MeuComponente extends Component {
         this.state = { numero: 5 }
         this.adicionarNumero = this.adicionarNumero.bind(this)
 
+    
         console.log('construtor....')
     }
 
